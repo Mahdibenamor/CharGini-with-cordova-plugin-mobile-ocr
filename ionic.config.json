@@ -1,0 +1,7 @@
+{
+  "name": "chargini_ocr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
